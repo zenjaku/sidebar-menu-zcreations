@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/user/repo.git"
+    "url": "git+https://github.com/zenjaku/sidebar-menu-zcreations.git"
   },
   "keywords": [
     "css",
