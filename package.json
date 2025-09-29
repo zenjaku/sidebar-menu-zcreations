@@ -1,0 +1,28 @@
+{
+  "name": "zcreations",
+  "version": "1.0.0",
+  "description": "Lightweight and responsive sidebar menu using Bootstrap, created by ZCreations.",
+  "main": "js/script.js",
+  "style": "css/style.css",
+  "files": [
+    "js/",
+    "css/",
+    "webfonts/"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/user/repo.git"
+  },
+  "keywords": [
+    "css",
+    "framework"
+  ],
+  "author": "ZCreations",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.8"
+  }
+}
